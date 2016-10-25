@@ -1,1 +1,1 @@
-hi
+nix-build patchedPostgrest.nix
